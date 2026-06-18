@@ -1,4 +1,4 @@
-This repo contains an example of how to use aliases to safely rename resources
+This repo contains an example of how to use transforms and aliases to safely rename resources at scale when they've been componentized.
 
 # AWS TypeScript Pulumi Template
 
